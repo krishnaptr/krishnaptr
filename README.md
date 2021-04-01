@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Krish,
-- 👀 I’m interested in Front-End Dev using Pure CSS and JS but now interested with Vue + TailwindCSS
+- 👀 I’m interested in Front-End Dev using Pure CSS, JS, and some frameworks such as Bootstrap but now interested using with Vue + TailwindCSS
 - 🌱 I’m currently learning TailwindCSS
 - 📫 Just stay tune!
 
