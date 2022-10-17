@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Krish,
-- 👀 I’m interested in Front-End Dev using Pure CSS, JS, and some frameworks such as Bootstrap but now interested using with Vue + TailwindCSS
-- 🌱 I’m currently learning TailwindCSS
+- 👀 I’m interested in Front-End Dev using CSS, JS, and Bootstrap. But now I'm interested to learn Frontend Framework like ReactJS also TailwindCSS.
+- 🌱 I’m also learning Mobile Programming using Flutter Framework. I like to learn everything xD.
 - 📫 Just stay tune!
 
 <!---
